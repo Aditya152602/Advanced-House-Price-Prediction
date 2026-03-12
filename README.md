@@ -63,18 +63,6 @@ Gradient Boosting	0.92
 
 ✅ Best Model: Gradient Boosting
 
-📈 Model Accuracy Graph
-
-(Add your model comparison graph here)
-
-Example:
-
-images/model_accuracy.png
-
-Then display it like this in README:
-
-![Model Accuracy](images/model_accuracy.png)
-📊 Exploratory Data Analysis
 
 EDA was performed to analyze relationships between housing features and prices.
 
